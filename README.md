@@ -79,6 +79,8 @@
     * [My Creations - NightCafe Creator](https://creator.nightcafe.studio/my-creations)
 
     * [一帧秒创 - ai 作画](https://aigc.yizhentv.com/app/tools/aiPaint)
+    
+    * [midjourney](https://www.midjourney.com/app/)
 
 * AI 上色
 
